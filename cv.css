@@ -1,0 +1,78 @@
+body {
+  font-family: 'Open Sans', 'sans-herif'
+}
+
+fieldset {
+  box-shadow: 2px 2px 2px 2px gray;
+}
+  
+.change-color{
+  color: cornflowerblue;
+}
+
+.title{
+  font-size: 35px;
+  font-weight: bold;
+  
+}
+
+.job{
+  font-size: 24px;
+  color: gray;
+  margin-top: -35px;
+}
+
+.statement{
+  font-size: 20px;
+}
+
+.other-info{
+  color: gray;
+  font-size: 20px;
+  line-height: 50px;
+
+}
+.answers{
+  font-size: 20px;
+  line-height: 50px;
+}
+
+.social-info{
+  color: gray;
+  font-size: 20px;
+}
+.social-info:hover{
+  color: cornflowerblue;
+}
+
+.img{
+  margin-top: -600px;
+  margin-left: 20px;
+  width: 350px;
+  height: 350;
+} 
+
+.pull-right{
+  padding-left: 450px;
+}
+  
+.download{
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 26%;
+  color: gray;
+  font-weight: bold;
+}
+.status{
+  padding-left:125px; 
+  color: gray;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
